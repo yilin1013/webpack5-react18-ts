@@ -1,0 +1,14 @@
+# System
+.DS_Store
+
+# Compiler & Destory
+build
+dist
+
+*.log
+
+# NPM & Yarn
+node_modules
+
+package-lock.json
+yarn.json
